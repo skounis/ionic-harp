@@ -4,6 +4,9 @@ A static NodeJS webserver for Heroku, with **Ionic** in mind!
 ## Web content / Ionic `www`
 Copy the content of the `www` folder of your **Ionic Application** into the `www` folder.
 
+### Example - Ionic Tabs Starter
+Switch to the `ionic-tabs` branch and check the content of the `www` folder.
+
 ## Local
 Install dependencies `npm install` and run the server `harp server www`. You should get something similar to:
 ```
