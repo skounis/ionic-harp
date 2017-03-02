@@ -26,3 +26,6 @@ Search for your Github repo where your version of this repo is forked to, eg: `s
 Enable Automatic Deploys for your `master` branch.
 
 Commit your changes in your GitHub repo and then open the URL of your Heroku App.
+
+### Demo:
+* Ionic Tabs Starter: https://ionic-harp.herokuapp.com/
